@@ -1,0 +1,6 @@
+*.exe
+/log/
+/build/
+/install/
+src/voice_control/config.ini
+
